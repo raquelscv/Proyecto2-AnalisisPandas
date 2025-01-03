@@ -20,9 +20,21 @@ Este proyecto utiliza:
 - Librerías principales: pandas, numpy, seaborn, matplotlib
 
 ## 📊 Resultados y Conclusiones
+
 - **Principales Resultados de los Análisis**
 
-    - 
+    - Análisis de Ingresos Recaudados:
+        - Entre 2013 y 2021 el gobierno de Brasil recaudó 25,6 billones de BRL. 
+        - De Ingresos Corrientes e Ingresos de Capital proviene el 98,74% de la recaudación. 
+        - Es el Ministerio de Economía el órgano que se ha llevado el 96,38% de la recaudación. 
+        - En términos generales, la recaudación ha seguido un patrón ascendente, lo que indica un pronóstico positivo en el mediano y largo plazo.
+    
+    - Análisis Ingresos Previstos vs Recaudados:
+        - Durante el mismo periodo, el gobierno de Brasil hizo una previsión en la recaudación de 28,3 billones de BRL. En la mayoría de los años, se observaron sobreestimaciones, excepto en 2020, donde las previsiones fueron las más precisas. 2017 destacó como el año con mayores discrepancias.
+        - La Controladoria-geral da união fue la entidad con mayores dificultades en cumplir sus objetivos de recaudación, mostrando problemas persistentes tanto a nivel general como en unidades específicas, como la Diretoria de gestao interna (cgu).
+        - En el análisis por categorías económicas, las Receitas de capital destacaron por sus problemas de previsión, especialmente en la fuente Alienação de bens, siendo el tipo Alienação de bens imóveis y su detalle Alien. bens imoveis de dom da uniao-dom diret, los más críticos en términos de desajustes entre previsión y recaudación.
+
+Para obtener más detalle sobre tendencias, casos específicos, partidas económicas o incluso propuestas de mejora, consulte el informe completo de Analisis_Ingresos_Brasil
 
 ## 💡Próximos Pasos
 
